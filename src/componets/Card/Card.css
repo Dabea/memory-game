@@ -1,0 +1,217 @@
+.card-container{
+    width:100px;
+    height:150px;
+    border: 1px solid black;
+}
+
+.card-blue{
+    background:blue;
+}
+
+.card-green{
+    background:green;
+}
+
+
+.scale-3 {
+	transform: scale(3);
+}
+
+.card-grid{
+	display: grid;
+	grid-template-columns: repeat(4 , 1fr);
+}
+
+/**** Sprite Sheet **/
+.sprite-1  {
+	background: url('./b9e.png') no-repeat 1.176% 2.909%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-2  {
+	background: url('./b9e.png') no-repeat 11.551% 2.722%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-3  {
+	background: url('./b9e.png') no-repeat 22.353% 2.904%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-4  {
+	background: url('./b9e.png') no-repeat 33.155% 2.727%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-5  {
+	background: url('./b9e.png') no-repeat 44.278% 2.904%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-6 {
+	background: url('./b9e.png') no-repeat 54.973% 2.904%;
+	width: 89px;
+	height: 93px;
+}
+
+
+.sprite-7  {
+	background: url('./b9e.png') no-repeat 65.775% 2.904%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-8  {
+	background: url('./b9e.png') no-repeat 76.898% 2.904%;
+	width: 89px;
+	height: 93px;
+}
+
+
+.sprite-9 {
+	background: url('./b9e.png') no-repeat 87.594% 2.904%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-10  {
+	background: url('./b9e.png') no-repeat 98.396% 2.904%;
+	width: 89px;
+	height: 93px;
+}
+/*row-2 */
+
+
+.sprite-11  {
+	background: url('./b9e.png') no-repeat 1.176% 21.234%;
+	background-size: 512px 322px;
+	width: 45px;
+	height: 47px;
+}
+
+.sprite-12  {
+	background: url('./b9e.png') no-repeat 11.551% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-13  {
+	background: url('./b9e.png') no-repeat 22.353% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-14  {
+	background: url('./b9e.png') no-repeat 33.155% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-15  {
+	background: url('./b9e.png') no-repeat 44.278% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-16 {
+	background: url('./b9e.png') no-repeat 54.973% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+
+.sprite-17  {
+	background: url('./b9e.png') no-repeat 65.775% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-18  {
+	background: url('./b9e.png') no-repeat 76.898% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+
+.sprite-19 {
+	background: url('./b9e.png') no-repeat 87.594% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-20  {
+	background: url('./b9e.png') no-repeat 98.396% 21.234%;
+	width: 89px;
+	height: 93px;
+}
+
+/*row-3 */
+
+
+.sprite-21  {
+	background: url('./b9e.png') no-repeat 1.176% 39.927%;
+	background-size: 512px 322px;
+	width: 45px;
+	height: 47px;
+}
+
+.sprite-22  {
+	background: url('./b9e.png') no-repeat 11.551% 39.927%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-23  {
+	background: url('./b9e.png') no-repeat 22.353% 39.927%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-24  {
+	background: url('./b9e.png') no-repeat 33.155% 39.927%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-25  {
+	background: url('./b9e.png') no-repeat 44.278% 39.927%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-26 {
+	background: url('./b9e.png') no-repeat 54.973% 39.927%;
+	width: 89px;
+	height: 93px;
+}
+
+
+.sprite-27  {
+	background: url('./b9e.png') no-repeat 65.775% 39.927%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-28  {
+	background: url('./b9e.png') no-repeat 76.898% 39.927%;
+	width: 89px;
+	height: 93px;
+}
+
+
+.sprite-29 {
+	background: url('./b9e.png') no-repeat 87.594% 39.927%;
+	width: 89px;
+	height: 93px;
+}
+
+.sprite-30  {
+	background: url('./b9e.png') no-repeat 98.396% 39.927%;
+	width: 89px;
+	height: 93px;
+}
